@@ -487,6 +487,8 @@ footer {
     margin-top: 20px; } }
 
 @media (min-width: 800px) {
+  .logo {
+    padding-right: 25px; }
   .balance {
     padding: 13px 7px; }
   .main_menu .main_menu_list li a {
